@@ -4,6 +4,13 @@ const port = 8080;
 
 app.listen(port, function () {
 	console.log("Running port ", port);
-	console.log("Kristian Ortiz Lemus");
-	
+	console.log("Escribe una linea que imprima tu nombre abajo de esta.");
+	console.log("Juan Carlos Bucio");
+	console.log("Cesar Cruz");
+	console.log("Sergio Arellano Hurtado");
+	console.log("Luis Cuellar");	
+	console.log("Jesús Martínez Correa");
+	console.log("Diego Castellanos");
+  console.log("Erik Alexander Gonzalez Bocio")
+  console.log("Kristian Ortiz Lemus");
 })
