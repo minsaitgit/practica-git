@@ -7,4 +7,6 @@ app.listen(port, function () {
 	console.log("Escribe una linea que imprima tu nombre abajo de esta.");
 	console.log("Luis Cuellar");
 	console.log("Eduardo Samuel Santiago Garcia")
+	console.log("Sergio Arellano Hurtado");
+	console.log("Luis Cuellar");	
 })
