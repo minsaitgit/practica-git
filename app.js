@@ -12,5 +12,6 @@ app.listen(port, function () {
 	console.log("Antonio Ortega");
 	console.log("Joshua Antonio López Domínguez.");
 	console.log("Manuel Adrián Millán Leal");
+	console.log("Salvador Angulo");
 
 })
